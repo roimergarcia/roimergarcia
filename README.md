@@ -19,4 +19,4 @@ Hi, I’m @roimergarcia. I'm mostly into web development, some times doing full 
 📫 How to reach me ...
 - Twitter: [@roimergarcia](https://twitter.com/roimergarcia)
 - Linkedin: [Roimer García](https://www.linkedin.com/in/roimergarcia)
-- Personal Blog: [Variable Técnica](https://variabletecnica.wordpress.com) (soon to be renewed)
+- Personal Blog: [Variable Técnica](https://variabletecnica.com)
