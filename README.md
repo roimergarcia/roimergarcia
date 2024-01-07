@@ -11,7 +11,8 @@ Hi, I’m @roimergarcia. I'm mostly into web development, some times doing full 
 - HTML, Javascript, and CSS
 - Android development with Kotlin
 - Databases, mainly SQL Server and MySQL/MariaDB
-- Learning PHP, with Laravel (Laragon) 
+- Learning PHP, with Laravel (Laragon)
+- Learning Vue JS
 - Collaborating in opensource protects 👍 
 - Going back to some old side projects I forgot to finish 😅
 - Learning Japanese language
