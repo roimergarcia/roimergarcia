@@ -12,7 +12,7 @@ Hi, I’m @roimergarcia. I'm mostly into web development, some times doing full 
 - Android development with Kotlin
 - Databases, mainly SQL Server and MySQL/MariaDB
 - Learning PHP, with Laravel (Laragon)
-- Learning Vue JS
+- Learning Vue JS, with vite
 - Collaborating in opensource protects 👍 
 - Going back to some old side projects I forgot to finish 😅
 - Learning Japanese language
