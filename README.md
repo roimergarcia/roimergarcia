@@ -4,15 +4,15 @@ Hi, I’m @roimergarcia. I'm mostly into web development, some times doing full 
 ---
 - A private Web application, covering business administrative areas; mostly written in ASP.NET with VB, SQL Server, and Javascript (private project).
 - Some private Android apps, written in Kotlin  (private project).
-- A personal web app, in PHP, for generating sitemaps. To be released this year.
+- A few personal APIs in NodeJS.
 - A personal library for generating PDF reports in Javascript. 
 
 📝 Interested in:
 - HTML, Javascript, and CSS
 - Android development with Kotlin
+- Arduino development with ESP32
 - Databases, mainly SQL Server and MySQL/MariaDB
-- Learning PHP, with Laravel (Laragon)
-- Learning Vue JS, with vite
+- Learning NodeJS server side, y Learning Vue JS (with vite) for client side
 - Collaborating in opensource protects 👍 
 - Going back to some old side projects I forgot to finish 😅
 - Learning Japanese language
